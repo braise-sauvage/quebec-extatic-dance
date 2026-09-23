@@ -33,7 +33,7 @@ OUT_ICS = DATA_DIR / "calendrier.ics"
 OUT_JSON = DATA_DIR / "evenements.json"
 
 TZ = ZoneInfo("America/Toronto")
-STATUTS_PUBLIABLES = {"approuvé", "approuve", "publié", "publie"}
+STATUTS_PUBLIABLES = {"approuvé", "approuve", "publié", "publie", "ok", "oui"}
 
 
 def charger_pleinsoleil() -> list[dict]:

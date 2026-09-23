@@ -103,7 +103,7 @@ consommer directement en JS sur le site statique).
      elle est vide (format `AAAA-MM-JJ`) — le script ne détecte que les
      dates explicites ("12 octobre"), pas les jours de semaine seuls
      ("samedi") ni les dates relatives ("dans deux semaines")
-   - Si tout est bon, change `statut` à `approuvé`
+   - Si tout est bon, change `statut` à `approuvé` (`ok` ou `oui` fonctionnent aussi)
    - Si ce n'est pas un vrai événement (fausse détection), change
      `statut` à `rejeté` (ou laisse tel quel — seul `approuvé`/`publié`
      est repris dans le calendrier final)
