@@ -36,6 +36,17 @@ TZ = ZoneInfo("America/Toronto")
 STATUTS_PUBLIABLES = {"approuvé", "approuve", "publié", "publie", "ok", "oui"}
 
 
+def _ouvrir_csv_dict(chemin):
+    """Ouvre un CSV en dict, en détectant automatiquement si le séparateur
+    est une virgule ou un point-virgule (Excel en réglages français exporte
+    souvent avec ';' — sans cette détection, tout le fichier serait lu comme
+    une seule colonne et toutes les lignes seraient silencieusement ignorées)."""
+    with open(chemin, encoding="utf-8", newline="") as f:
+        entete = f.readline()
+    delimiteur = ";" if entete.count(";") > entete.count(",") else ","
+    return csv.DictReader(open(chemin, encoding="utf-8", newline=""), delimiter=delimiteur)
+
+
 def charger_pleinsoleil() -> list[dict]:
     """Convertit les VEVENT de Plein Soleil en dicts génériques pour
     qu'on puisse les traiter uniformément avec les entrées Facebook."""
@@ -82,48 +93,47 @@ def charger_facebook_approuves() -> list[dict]:
         return []
 
     evenements = []
-    with open(A_VALIDER_CSV, encoding="utf-8", newline="") as f:
-        for ligne in csv.DictReader(f):
-            statut = (ligne.get("statut") or "").strip().lower()
-            if statut not in STATUTS_PUBLIABLES:
-                continue
+    for ligne in _ouvrir_csv_dict(A_VALIDER_CSV):
+        statut = (ligne.get("statut") or "").strip().lower()
+        if statut not in STATUTS_PUBLIABLES:
+            continue
 
-            date_str = (ligne.get("date_detectee") or "").strip()
-            if not date_str:
-                print(
-                    f"! entrée approuvée sans date, ignorée : {ligne.get('titre')!r} "
-                    f"(remplis 'date_detectee' dans a_valider.csv)",
-                    file=sys.stderr,
-                )
-                continue
+        date_str = (ligne.get("date_detectee") or "").strip()
+        if not date_str:
+            print(
+                f"! entrée approuvée sans date, ignorée : {ligne.get('titre')!r} "
+                f"(remplis 'date_detectee' dans a_valider.csv)",
+                file=sys.stderr,
+            )
+            continue
 
-            try:
-                jour = date.fromisoformat(date_str)
-            except ValueError:
-                print(f"! date invalide ignorée : {date_str!r}", file=sys.stderr)
-                continue
+        try:
+            jour = date.fromisoformat(date_str)
+        except ValueError:
+            print(f"! date invalide ignorée : {date_str!r}", file=sys.stderr)
+            continue
 
-            heure_debut = parse_heure(ligne.get("heure_debut", "")) or time(19, 0)
-            heure_fin = parse_heure(ligne.get("heure_fin", ""))
+        heure_debut = parse_heure(ligne.get("heure_debut", "")) or time(19, 0)
+        heure_fin = parse_heure(ligne.get("heure_fin", ""))
 
-            debut = datetime.combine(jour, heure_debut, tzinfo=TZ)
-            fin = datetime.combine(jour, heure_fin, tzinfo=TZ) if heure_fin else None
+        debut = datetime.combine(jour, heure_debut, tzinfo=TZ)
+        fin = datetime.combine(jour, heure_fin, tzinfo=TZ) if heure_fin else None
 
-            titre = ligne.get("titre") or "Danse extatique"
-            dj = (ligne.get("dj_ou_animation") or "").strip()
-            if dj:
-                titre = f"{titre} — {dj}"
+        titre = ligne.get("titre") or "Danse extatique"
+        dj = (ligne.get("dj_ou_animation") or "").strip()
+        if dj:
+            titre = f"{titre} — {dj}"
 
-            evenements.append({
-                "titre": titre,
-                "debut": debut,
-                "fin": fin,
-                "lieu": (ligne.get("adresse") or "").strip(),
-                "description": (ligne.get("texte") or "").strip(),
-                "source": ligne.get("source", "Facebook"),
-                "lien": ligne.get("lien") or None,
-                "fiable": False,
-            })
+        evenements.append({
+            "titre": titre,
+            "debut": debut,
+            "fin": fin,
+            "lieu": (ligne.get("adresse") or "").strip(),
+            "description": (ligne.get("texte") or "").strip(),
+            "source": ligne.get("source", "Facebook"),
+            "lien": ligne.get("lien") or None,
+            "fiable": False,
+        })
     return evenements
 
 

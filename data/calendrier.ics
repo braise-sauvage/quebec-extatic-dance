@@ -263,6 +263,18 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meraki Souls Connexion #1 — DJ Airon — Airon
+DTSTART;TZID=America/Toronto:20261005T170000
+DTEND;TZID=America/Toronto:20261005T220000
+DESCRIPTION:Vérifié manuellement au navigateur sur tickettailor.com/even
+ ts/primastarproductions (page protégée par Cloudflare\, pas de flux auto
+ matisable)
+LOCATION:Centre-Ville\, Montréal\, H2X (adresse exacte dévoilée après 
+ réservation)
+SOURCE:PrimaStar Productions (TicketTailor)
+URL:https://www.tickettailor.com/events/primastarproductions
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Contact Beyond Contact ∞ 5-weeks Experience 
 DTSTART:20261007T230000Z
 DTEND:20261008T010000Z
@@ -279,12 +291,36 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meraki Souls Connexion #2 — DJ Sky — Sky
+DTSTART;TZID=America/Toronto:20261012T170000
+DTEND;TZID=America/Toronto:20261012T220000
+DESCRIPTION:Vérifié manuellement au navigateur sur tickettailor.com/even
+ ts/primastarproductions (page protégée par Cloudflare\, pas de flux auto
+ matisable)
+LOCATION:Centre-Ville\, Montréal\, H2X (adresse exacte dévoilée après 
+ réservation)
+SOURCE:PrimaStar Productions (TicketTailor)
+URL:https://www.tickettailor.com/events/primastarproductions
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Astroboy
 DTSTART:20261016T230000Z
 DTEND:20261017T021500Z
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
 SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meraki Souls Connexion #3 — DJ Syzygy — Syzygy
+DTSTART;TZID=America/Toronto:20261019T170000
+DTEND;TZID=America/Toronto:20261019T220000
+DESCRIPTION:Vérifié manuellement au navigateur sur tickettailor.com/even
+ ts/primastarproductions (page protégée par Cloudflare\, pas de flux auto
+ matisable)
+LOCATION:Centre-Ville\, Montréal\, H2X (adresse exacte dévoilée après 
+ réservation)
+SOURCE:PrimaStar Productions (TicketTailor)
+URL:https://www.tickettailor.com/events/primastarproductions
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Matty Ryce

@@ -158,8 +158,16 @@ def detecter_date(texte: str, date_publication: datetime | None) -> str:
 def charger_csv_existant() -> list[dict]:
     if not OUTPUT_CSV.exists():
         return []
+    # Détecte si le fichier a été resauvegardé avec ';' comme séparateur
+    # (cas fréquent : Excel en réglages français) — sinon le fichier serait
+    # lu comme une seule colonne et toutes les lignes existantes seraient
+    # perdues au prochain écrasement du CSV (ecrire_csv réécrit toujours en
+    # virgules, donc cette détection suffit à "guérir" le fichier).
     with open(OUTPUT_CSV, encoding="utf-8", newline="") as f:
-        return list(csv.DictReader(f))
+        entete = f.readline()
+    delimiteur = ";" if entete.count(";") > entete.count(",") else ","
+    with open(OUTPUT_CSV, encoding="utf-8", newline="") as f:
+        return list(csv.DictReader(f, delimiter=delimiteur))
 
 
 def ecrire_csv(lignes: list[dict]):
