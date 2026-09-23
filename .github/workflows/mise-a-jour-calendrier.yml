@@ -1,0 +1,47 @@
+name: Mise à jour du calendrier
+
+on:
+  schedule:
+    # Tous les jours à 9h05 UTC (5h05 heure de l'Est en été, 4h05 en hiver
+    # -- l'heure exacte n'est pas critique pour ce cas d'usage)
+    - cron: "5 9 * * *"
+  workflow_dispatch: {}  # permet de déclencher manuellement depuis GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  maj-calendrier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cloner le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Importer les événements Plein Soleil (ICS)
+        run: python3 scripts/fetch_pleinsoleil.py
+
+      - name: Surveiller les pages Facebook (RSS)
+        run: python3 scripts/fetch_facebook_rss.py
+
+      - name: Fusionner en calendrier final
+        run: python3 scripts/merge_calendar.py
+
+      - name: Commit et push des changements
+        run: |
+          git config user.name "quebec-extatic-dance-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau à commit."
+          else
+            git commit -m "Mise à jour automatique du calendrier ($(date -u +%Y-%m-%d))"
+            git push
+          fi

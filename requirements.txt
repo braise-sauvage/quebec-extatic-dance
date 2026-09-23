@@ -1,0 +1,7 @@
+requests>=2.31
+beautifulsoup4>=4.12
+icalendar>=5.0
+feedparser>=6.0
+dateparser>=1.2
+python-dateutil>=2.9
+PyYAML>=6.0

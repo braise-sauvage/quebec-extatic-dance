@@ -1,0 +1,90 @@
+# Sources pour l'agrégation d'événements de danse extatique au Québec
+#
+# --- Sources ICS (fiables, automatiques, aucune validation requise) ---
+ics_sources:
+  - nom: "Plein Soleil"
+    ville: "Montréal"
+    type: "calendrier_squarespace"
+    page_calendrier: "https://www.pleinsoleil.club/"
+
+# --- Sources sans flux automatisable (vérification manuelle périodique) ---
+#
+# Ces sites n'exposent ni ICS public ni flux RSS, et sont protégés contre
+# le scraping automatisé (ex. Cloudflare) — un script avec `requests`
+# reçoit une page de vérification anti-robot au lieu du contenu. Seul un
+# vrai navigateur passe cette protection, donc ces sources sont vérifiées
+# ponctuellement (demander à Claude de "vérifier les sources manuelles")
+# plutôt que dans l'automatisation nocturne.
+sources_manuelles:
+  - nom: "PrimaStar Productions"
+    ville: "Montréal"
+    url: "https://www.tickettailor.com/events/primastarproductions"
+    note: >
+      Série "Meraki Souls Connexion" — danse extatique chic, les lundis
+      soir 17h-22h. Adresse exacte dévoilée après réservation (pratique
+      normale de l'organisateur, pas une limite de collecte de données).
+      TicketTailor n'expose pas de flux ICS public (contrairement à
+      Eventbrite) — le lien ICS n'est envoyé qu'après achat d'un billet,
+      par courriel de confirmation.
+
+# --- Sources Facebook (via flux RSS tiers, nécessitent validation manuelle) ---
+#
+# Pour chaque page/groupe ci-dessous :
+# 1. Aller sur https://rss.app (ou https://fetchrss.com)
+# 2. Coller l'URL Facebook dans le générateur
+# 3. Copier l'URL du flux RSS généré (ressemble à https://rss.app/feeds/xxxxx.xml)
+# 4. La coller dans "flux_rss" ci-dessous
+#
+# Tant que "flux_rss" est vide ou commence par "A_CONFIGURER", cette source
+# est ignorée silencieusement par le script (aucune erreur).
+facebook_sources:
+  - nom: "Danse Extatique Québec (DEQ)"
+    ville: "Québec"
+    url_facebook: "https://www.facebook.com/danse.extatique/"
+    flux_rss: "https://rss.app/feeds/4HVrE7sTrccfK0MO.xml"
+
+  - nom: "Danse Extatique Montréal"
+    ville: "Montréal"
+    url_facebook: "https://www.facebook.com/danse.extatique.montreal.ecstatic.dance/"
+    flux_rss: "https://rss.app/feeds/UKrcjBJmfkITk9J4.xml"
+
+  - nom: "Danser à Sherbrooke"
+    ville: "Sherbrooke"
+    url_facebook: "https://www.facebook.com/p/Danser-%C3%A0-Sherbrooke-61572910285435/"
+    flux_rss: "https://rss.app/feeds/WjJ1QeyZAlzO28HI.xml"
+
+  - nom: "OnDanse Val-David"
+    ville: "Val-David"
+    url_facebook: "https://www.facebook.com/groups/ondanse.valdavid.danse.extatique"
+    flux_rss: "https://rss.app/feeds/zntihJEf5AACHpin.xml"
+
+  - nom: "Ecstatic Dance Mayhem"
+    ville: "À confirmer"  # à valider avec Nelson — probablement région Ottawa/Gatineau
+    url_facebook: "https://www.facebook.com/EcstaticDanceMayhem"
+    flux_rss: "https://rss.app/feeds/IDJrSBST9YgUNRZ1.xml"
+
+# Mots-clés utilisés pour repérer, parmi les posts Facebook, ceux qui
+# ressemblent probablement à une annonce d'événement (plutôt qu'une photo,
+# un partage, ou une réflexion sans date précise).
+#
+# "forts" : suffisent à eux seuls pour mettre le post en file de validation.
+# "faibles" : trop fréquents pour être fiables seuls (ex. "samedi" apparaît
+# aussi dans "merci pour samedi dernier") — ils ne déclenchent une entrée
+# que si une date explicite est aussi détectée dans le texte.
+mots_cles_evenement:
+  forts:
+    - "danse extatique"
+    - "ecstatic dance"
+    - "danse libre"
+    - "mouvement libre"
+    - "on danse"
+  faibles:
+    - "rendez-vous"
+    - "soirée"
+    - "dimanche"
+    - "lundi"
+    - "mardi"
+    - "mercredi"
+    - "jeudi"
+    - "vendredi"
+    - "samedi"
