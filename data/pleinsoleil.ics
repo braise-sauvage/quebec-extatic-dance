@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Contact Beyond Contact ∞ 5-weeks Experience 
 DTSTART:20261007T230000Z
 DTEND:20261008T010000Z
-DTSTAMP:20260922T182558Z
+DTSTAMP:20260928T154252Z
 UID:6ab2bff7cad8940a2c666eaa@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Miguel Méndez (Spain)
 DTSTART:20261009T230000Z
 DTEND:20261010T021500Z
-DTSTAMP:20260922T000540Z
+DTSTAMP:20260928T154235Z
 UID:6ab1c21587655952a76d741d@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Astroboy
 DTSTART:20261016T230000Z
 DTEND:20261017T021500Z
-DTSTAMP:20260923T051110Z
+DTSTAMP:20260928T154358Z
 UID:6ab1c65419ee574aedfe97c1@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Matty Ryce
 DTSTART:20261023T230000Z
 DTEND:20261024T021500Z
-DTSTAMP:20260923T220404Z
+DTSTAMP:20260928T154609Z
 UID:6ab1c88db5e3f60227df850a@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -202,19 +202,8 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Dove Raven 
 DTSTART:20261030T230000Z
 DTEND:20261031T021500Z
-DTSTAMP:20260922T002339Z
+DTSTAMP:20260928T154533Z
 UID:6ab1ca1287655952a76e022c@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Jessie Buck 
-DTSTART:20260508T230000Z
-DTEND:20260509T021500Z
-DTSTAMP:20260427T083328Z
-UID:69eb6f911ebcaa3b5b9163f5@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -302,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Les Sistaz: Fränze &amp\; Regina 
 DTSTART:20261002T230000Z
 DTEND:20261003T021500Z
-DTSTAMP:20260917T175706Z
+DTSTAMP:20260928T154259Z
 UID:6aac292a96119979891eeef3@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
