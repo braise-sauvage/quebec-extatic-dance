@@ -276,6 +276,13 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Family dance by Multi Culti 
+DTSTART:20261010T190000Z
+DTEND:20261011T030000Z
+LOCATION:Multi Culti Space Garage
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meraki Souls Connexion #2 — DJ Sky — Sky
 DTSTART;TZID=America/Toronto:20261012T170000
 DTEND;TZID=America/Toronto:20261012T220000

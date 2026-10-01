@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Les Sistaz: Fränze &amp\; Regina 
 DTSTART:20261002T230000Z
 DTEND:20261003T021500Z
-DTSTAMP:20260928T154259Z
+DTSTAMP:20260930T175611Z
 UID:6aac292a96119979891eeef3@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -338,6 +338,16 @@ UID:69c6a3c8a883b75d31a0cd3e@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family dance by Multi Culti 
+DTSTART:20261010T190000Z
+DTEND:20261011T030000Z
+DTSTAMP:20260930T184023Z
+UID:6abd53b18bdb8f391fdc58f4@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Multi Culti Space Garage
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
