@@ -33,6 +33,17 @@ LOCATION:Théatre Paradoxe
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breathe. ∞ Somatic Breathwork CEREMONY ∞ Matty Ryce
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+DTSTAMP:20261002T210615Z
+UID:6abffa79e145661feee75ad1@squarespace.com
+GEO:45.553734;-73.533643
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Contact Beyond Contact ∞ 5-weeks Experience 
 DTSTART:20261007T230000Z
 DTEND:20261008T010000Z
@@ -341,6 +352,17 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Melt. ∞ A Kaleidoscope of Sound &amp\; Spirit ∞ Matty Ryce
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+DTSTAMP:20261002T213728Z
+UID:6abffea7331275234cc6429d@squarespace.com
+GEO:45.553734;-73.533643
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Family dance by Multi Culti 
 DTSTART:20261010T190000Z
 DTEND:20261011T030000Z
@@ -359,6 +381,27 @@ UID:696667ea315b7b520be9e133@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Bain Mathieu\, 2915 Rue Ontario Est\, Montréal\, QC\, H2K 1X7\, 
  Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OVEOUS IN MONTREAL ∞ Ancestral Afro House Ecstatic Sunday 
+DTSTART:20261018T200000Z
+DTEND:20261019T003000Z
+DTSTAMP:20261002T180332Z
+UID:6abfc6ab6d2d790f191d2bb1@squarespace.com
+GEO:45.553734;-73.533643
+LOCATION:PJE\, 4560 Rue Adam\, Montréal\, Québec\, H1V 1V2\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OVEOUS IN MONTREAL ∞ Write iNTO YOUR POWER (workshop)
+DTSTART:20261019T230000Z
+DTEND:20261020T010000Z
+DTSTAMP:20261002T183953Z
+UID:6abff1f4153dae3794260ce1@squarespace.com
+GEO:45.553734;-73.533643
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT

@@ -303,6 +303,13 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OVEOUS IN MONTREAL ∞ Ancestral Afro House Ecstatic Sunday 
+DTSTART:20261018T200000Z
+DTEND:20261019T003000Z
+LOCATION:PJE\, 4560 Rue Adam\, Montréal\, Québec\, H1V 1V2\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meraki Souls Connexion #3 — DJ Syzygy — Syzygy
 DTSTART;TZID=America/Toronto:20261019T170000
 DTEND;TZID=America/Toronto:20261019T220000
@@ -315,11 +322,35 @@ SOURCE:PrimaStar Productions (TicketTailor)
 URL:https://www.tickettailor.com/events/primastarproductions
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OVEOUS IN MONTREAL ∞ Write iNTO YOUR POWER (workshop)
+DTSTART:20261019T230000Z
+DTEND:20261020T010000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Matty Ryce
 DTSTART:20261023T230000Z
 DTEND:20261024T021500Z
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breathe. ∞ Somatic Breathwork CEREMONY ∞ Matty Ryce
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melt. ∞ A Kaleidoscope of Sound &amp\; Spirit ∞ Matty Ryce
+DTSTART:20261025T230000Z
+DTEND:20261026T010000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
