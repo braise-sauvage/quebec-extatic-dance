@@ -295,6 +295,14 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sauna Rave with Umi &amp\; Gotta Lago at Joy Wellness 
+DTSTART:20261018T000000Z
+DTEND:20261018T023000Z
+LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
+ Québec\, H3G\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OVEOUS IN MONTREAL ∞ Ancestral Afro House Ecstatic Sunday 
 DTSTART:20261018T200000Z
 DTEND:20261019T003000Z

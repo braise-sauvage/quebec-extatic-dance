@@ -394,6 +394,17 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sauna Rave with Umi &amp\; Gotta Lago at Joy Wellness 
+DTSTART:20261018T000000Z
+DTEND:20261018T023000Z
+DTSTAMP:20261006T142125Z
+UID:6ac502f3d0454a49335991a2@squarespace.com
+GEO:45.499137;-73.578148
+LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
+ Québec\, H3G\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sauna Rave with Corey Sheikh at Joy Wellness
 DTSTART:20260614T010000Z
 DTEND:20260614T033000Z
