@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//quebec.extatic.dance//Calendrier fusionné//FR
 BEGIN:VEVENT
-SUMMARY:KALI MOON ∞ Taurus
-DTSTART:20260519T230000Z
-DTEND:20260520T010000Z
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Mixwell
 DTSTART:20260522T230000Z
 DTEND:20260523T023000Z
