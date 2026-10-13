@@ -1,23 +1,5 @@
 [
   {
-    "titre": "Ecstatic Dance ∞ Mixwell",
-    "debut": "2026-05-22T23:00:00+00:00",
-    "fin": "2026-05-23T02:30:00+00:00",
-    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
-    "description": "",
-    "source": "Plein Soleil",
-    "lien": null
-  },
-  {
-    "titre": "Ecstatic Dance ∞ Little Bang ",
-    "debut": "2026-05-29T23:00:00+00:00",
-    "fin": "2026-05-30T02:30:00+00:00",
-    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
-    "description": "",
-    "source": "Plein Soleil",
-    "lien": null
-  },
-  {
     "titre": "AWAKEN MONTREAL",
     "debut": "2026-05-30T18:00:00+00:00",
     "fin": "2026-05-31T03:45:00+00:00",
@@ -325,9 +307,9 @@
   },
   {
     "titre": "OVEOUS IN MONTREAL ∞ Ancestral Afro House Ecstatic Sunday ",
-    "debut": "2026-10-18T20:00:00+00:00",
-    "fin": "2026-10-19T00:30:00+00:00",
-    "lieu": "PJE, 4560 Rue Adam, Montréal, Québec, H1V 1V2, Canada",
+    "debut": "2026-10-18T21:00:00+00:00",
+    "fin": "2026-10-19T01:30:00+00:00",
+    "lieu": "Plein Soleil, Exact address sent in the booking confirmation emailMontréal,, Montréal, Québec, H2L 3J3, Canada",
     "description": "",
     "source": "Plein Soleil",
     "lien": null
@@ -382,6 +364,15 @@
     "debut": "2026-10-30T23:00:00+00:00",
     "fin": "2026-10-31T02:15:00+00:00",
     "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
+    "description": "",
+    "source": "Plein Soleil",
+    "lien": null
+  },
+  {
+    "titre": "Requiem V ∞ Halloween ",
+    "debut": "2026-10-31T23:30:00+00:00",
+    "fin": "2026-11-01T11:00:00+00:00",
+    "lieu": "Le Sainte-Catherine Hall, 917 Rue Sainte-Catherine Est, Montréal, Québec, H2L 2E5, Canada",
     "description": "",
     "source": "Plein Soleil",
     "lien": null

@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//quebec.extatic.dance//Calendrier fusionné//FR
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Mixwell
-DTSTART:20260522T230000Z
-DTEND:20260523T023000Z
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Little Bang 
-DTSTART:20260529T230000Z
-DTEND:20260530T023000Z
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AWAKEN MONTREAL
 DTSTART:20260530T180000Z
 DTEND:20260531T034500Z
@@ -296,9 +280,10 @@ SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OVEOUS IN MONTREAL ∞ Ancestral Afro House Ecstatic Sunday 
-DTSTART:20261018T200000Z
-DTEND:20261019T003000Z
-LOCATION:PJE\, 4560 Rue Adam\, Montréal\, Québec\, H1V 1V2\, Canada
+DTSTART:20261018T210000Z
+DTEND:20261019T013000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ ilMontréal\,\, Montréal\, Québec\, H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
@@ -351,6 +336,14 @@ DTSTART:20261030T230000Z
 DTEND:20261031T021500Z
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requiem V ∞ Halloween 
+DTSTART:20261031T233000Z
+DTEND:20261101T110000Z
+LOCATION:Le Sainte-Catherine Hall\, 917 Rue Sainte-Catherine Est\, Montré
+ al\, Québec\, H2L 2E5\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 END:VCALENDAR

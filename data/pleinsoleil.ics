@@ -221,17 +221,6 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Little Bang 
-DTSTART:20260529T230000Z
-DTEND:20260530T023000Z
-DTSTAMP:20260526T232603Z
-UID:69eb6d3aadc0fd5d75835db8@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Neerav
 DTSTART:20260729T230000Z
 DTEND:20260730T021500Z
@@ -260,17 +249,6 @@ DTSTART:20260826T230000Z
 DTEND:20260827T021500Z
 DTSTAMP:20260730T111503Z
 UID:6a6645e2ed575d7137e546d2@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Mixwell
-DTSTART:20260522T230000Z
-DTEND:20260523T023000Z
-DTSTAMP:20260824T204738Z
-UID:69eb6eed36628f675130997e@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -363,12 +341,13 @@ SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OVEOUS IN MONTREAL ∞ Ancestral Afro House Ecstatic Sunday 
-DTSTART:20261018T200000Z
-DTEND:20261019T003000Z
-DTSTAMP:20261002T180332Z
+DTSTART:20261018T210000Z
+DTEND:20261019T013000Z
+DTSTAMP:20261012T142413Z
 UID:6abfc6ab6d2d790f191d2bb1@squarespace.com
 GEO:45.553734;-73.533643
-LOCATION:PJE\, 4560 Rue Adam\, Montréal\, Québec\, H1V 1V2\, Canada
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ ilMontréal\,\, Montréal\, Québec\, H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
@@ -380,6 +359,17 @@ UID:6abff1f4153dae3794260ce1@squarespace.com
 GEO:45.553734;-73.533643
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requiem V ∞ Halloween 
+DTSTART:20261031T233000Z
+DTEND:20261101T110000Z
+DTSTAMP:20261012T170403Z
+UID:6acd0f023ce7ef1c69209fbc@squarespace.com
+GEO:45.516717;-73.55819
+LOCATION:Le Sainte-Catherine Hall\, 917 Rue Sainte-Catherine Est\, Montré
+ al\, Québec\, H2L 2E5\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
