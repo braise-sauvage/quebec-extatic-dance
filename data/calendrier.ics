@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//quebec.extatic.dance//Calendrier fusionné//FR
 BEGIN:VEVENT
-SUMMARY:AWAKEN MONTREAL
-DTSTART:20260530T180000Z
-DTEND:20260531T034500Z
-LOCATION:Théatre Paradoxe
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nessi Gomes in Montreal
-DTSTART:20260602T223000Z
-DTEND:20260603T220000Z
-LOCATION:Bain Mathieu\, 2915 Rue Ontario Est\, Montréal\, QC\, H2K 1X7\, 
- Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Live Music ∞ Thomas Carbou\, Emma Anders &amp
- \; Gotta Lago 
-DTSTART:20260605T230000Z
-DTEND:20260606T021500Z
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Terrasse by Hidden Garden\, Day Party
 DTSTART:20260607T180000Z
 DTEND:20260608T020000Z
