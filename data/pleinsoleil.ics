@@ -383,15 +383,4 @@ LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\,
  Québec\, H3G\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terrasse by Hidden Garden\, Day Party
-DTSTART:20260607T180000Z
-DTEND:20260608T020000Z
-DTSTAMP:20260604T231717Z
-UID:6a21f331ebe2392d8e9d8326@squarespace.com
-GEO:45.520207;-73.575048
-LOCATION:Le Livart\, 3968 Rue Saint-Denis\, Montréal\, Québec\, H2W 2M2
- \, Canada
-SOURCE:Plein Soleil
-END:VEVENT
 END:VCALENDAR
