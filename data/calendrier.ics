@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//quebec.extatic.dance//Calendrier fusionné//FR
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Apukuna
-DTSTART:20260612T230000Z
-DTEND:20260613T023000Z
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sauna Rave with Corey Sheikh at Joy Wellness
-DTSTART:20260614T010000Z
-DTEND:20260614T033000Z
-LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
- Québec\, H3G\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Place des montrealaises (free) 
 DTSTART:20260617T223000Z
 DTEND:20260618T003000Z

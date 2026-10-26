@@ -45,17 +45,6 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Apukuna
-DTSTART:20260612T230000Z
-DTEND:20260613T023000Z
-DTSTAMP:20260602T041919Z
-UID:6a0f19fb22050467d9f91919@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Miguel Méndez (Spain)
 DTSTART:20261009T230000Z
 DTEND:20261010T021500Z
@@ -345,17 +334,6 @@ DTSTART:20261018T000000Z
 DTEND:20261018T023000Z
 DTSTAMP:20261006T142125Z
 UID:6ac502f3d0454a49335991a2@squarespace.com
-GEO:45.499137;-73.578148
-LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
- Québec\, H3G\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sauna Rave with Corey Sheikh at Joy Wellness
-DTSTART:20260614T010000Z
-DTEND:20260614T033000Z
-DTSTAMP:20260624T174530Z
-UID:6a22077d074bcc6749869bb1@squarespace.com
 GEO:45.499137;-73.578148
 LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
  Québec\, H3G\, Canada
