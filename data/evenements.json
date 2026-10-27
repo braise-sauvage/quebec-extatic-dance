@@ -1,14 +1,5 @@
 [
   {
-    "titre": "Ecstatic Dance ∞ Place des montrealaises (free) ",
-    "debut": "2026-06-17T22:30:00+00:00",
-    "fin": "2026-06-18T00:30:00+00:00",
-    "lieu": "Place des Montréalaises, Montréal, QC, H2Y 3Z8, Canada",
-    "description": "",
-    "source": "Plein Soleil",
-    "lien": null
-  },
-  {
     "titre": "Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade ",
     "debut": "2026-06-19T23:00:00+00:00",
     "fin": "2026-06-20T02:30:00+00:00",
@@ -315,10 +306,28 @@
     "lien": null
   },
   {
-    "titre": "Requiem V ∞ Halloween ",
+    "titre": "Halloween Requiem V ∞ Aura Jade",
     "debut": "2026-10-31T23:30:00+00:00",
     "fin": "2026-11-01T11:00:00+00:00",
     "lieu": "Le Sainte-Catherine Hall, 917 Rue Sainte-Catherine Est, Montréal, Québec, H2L 2E5, Canada",
+    "description": "",
+    "source": "Plein Soleil",
+    "lien": null
+  },
+  {
+    "titre": "Histoire de Peur ∞ Conte Musiacl ∞ Regina",
+    "debut": "2026-11-08T23:00:00+00:00",
+    "fin": "2026-11-09T01:00:00+00:00",
+    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montréal, Québec, H2L 3J3, Canada",
+    "description": "",
+    "source": "Plein Soleil",
+    "lien": null
+  },
+  {
+    "titre": "KALI MOON ∞ Scorpio ",
+    "debut": "2026-11-11T00:00:00+00:00",
+    "fin": "2026-11-11T02:00:00+00:00",
+    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
     "description": "",
     "source": "Plein Soleil",
     "lien": null

@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//quebec.extatic.dance//Calendrier fusionné//FR
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Place des montrealaises (free) 
-DTSTART:20260617T223000Z
-DTEND:20260618T003000Z
-LOCATION:Place des Montréalaises\, Montréal\, QC\, H2Y 3Z8\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade 
 DTSTART:20260619T230000Z
 DTEND:20260620T023000Z
@@ -291,11 +284,27 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Requiem V ∞ Halloween 
+SUMMARY:Halloween Requiem V ∞ Aura Jade
 DTSTART:20261031T233000Z
 DTEND:20261101T110000Z
 LOCATION:Le Sainte-Catherine Hall\, 917 Rue Sainte-Catherine Est\, Montré
  al\, Québec\, H2L 2E5\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Histoire de Peur ∞ Conte Musiacl ∞ Regina
+DTSTART:20261108T230000Z
+DTEND:20261109T010000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KALI MOON ∞ Scorpio 
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 END:VCALENDAR
