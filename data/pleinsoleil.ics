@@ -34,6 +34,17 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Contact Beyond Contact MORE∞ 4-weeks Experience
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+DTSTAMP:20261027T161709Z
+UID:6ae0cc8fd434265046a511d4@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Contact Beyond Contact ∞ 5-weeks Experience 
 DTSTART:20261007T230000Z
 DTEND:20261008T010000Z
@@ -268,8 +279,19 @@ BEGIN:VEVENT
 SUMMARY:KALI MOON ∞ Scorpio 
 DTSTART:20261111T000000Z
 DTEND:20261111T020000Z
-DTSTAMP:20261027T150416Z
+DTSTAMP:20261027T152805Z
 UID:6ae0b9a942fe0c28505cecd7@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KALI MOON ∞ Sagittarius 
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+DTSTAMP:20261027T152816Z
+UID:6ae0bd78cbfd7404fc54df38@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -322,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:Histoire de Peur ∞ Conte Musiacl ∞ Regina
 DTSTART:20261108T230000Z
 DTEND:20261109T010000Z
-DTSTAMP:20261027T144743Z
+DTSTAMP:20261028T151623Z
 UID:6ae0b4676785bf127abbb463@squarespace.com
 GEO:45.553734;-73.533643
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -338,6 +360,17 @@ UID:6acd0f023ce7ef1c69209fbc@squarespace.com
 GEO:45.516717;-73.55819
 LOCATION:Le Sainte-Catherine Hall\, 917 Rue Sainte-Catherine Est\, Montré
  al\, Québec\, H2L 2E5\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ritual Trance Dance 
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+DTSTAMP:20261027T160718Z
+UID:6ae0cae7bed7c15b44ceb5fd@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
