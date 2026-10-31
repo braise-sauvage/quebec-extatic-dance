@@ -133,10 +133,21 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Sky 
+DTSTART:20261121T000000Z
+DTEND:20261121T031500Z
+DTSTAMP:20261030T205858Z
+UID:6ae5043e304565201f865ed6@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Sky
 DTSTART:20260722T230000Z
 DTEND:20260723T021500Z
-DTSTAMP:20260629T204445Z
+DTSTAMP:20261030T205526Z
 UID:6a3c3eb934039b2e79dfa4c8@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -199,6 +210,17 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Little Bang 
+DTSTART:20261107T000000Z
+DTEND:20261107T033000Z
+DTSTAMP:20261030T210125Z
+UID:6ae503380e22af6b4b26ea9c@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Neerav
 DTSTART:20260729T230000Z
 DTEND:20260730T021500Z
@@ -255,6 +277,17 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Thomas Von Party 
+DTSTART:20261114T000000Z
+DTEND:20261114T033000Z
+DTSTAMP:20261030T210208Z
+UID:6ae503c0ec17c460fcf03e29@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Place des montrealaises (free) 
 DTSTART:20260716T223000Z
 DTEND:20260717T003000Z
@@ -279,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:KALI MOON ∞ Scorpio 
 DTSTART:20261111T000000Z
 DTEND:20261111T020000Z
-DTSTAMP:20261027T152805Z
+DTSTAMP:20261030T204913Z
 UID:6ae0b9a942fe0c28505cecd7@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -290,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:KALI MOON ∞ Sagittarius 
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
-DTSTAMP:20261027T152816Z
+DTSTAMP:20261030T205026Z
 UID:6ae0bd78cbfd7404fc54df38@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -341,10 +374,10 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Histoire de Peur ∞ Conte Musiacl ∞ Regina
+SUMMARY:Histoire de Peur ∞ Conte Musical ∞ Regina
 DTSTART:20261108T230000Z
 DTEND:20261109T010000Z
-DTSTAMP:20261028T151623Z
+DTSTAMP:20261030T211756Z
 UID:6ae0b4676785bf127abbb463@squarespace.com
 GEO:45.553734;-73.533643
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -366,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Ritual Trance Dance 
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
-DTSTAMP:20261027T160718Z
+DTSTAMP:20261030T210352Z
 UID:6ae0cae7bed7c15b44ceb5fd@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema

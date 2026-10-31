@@ -292,7 +292,15 @@ LOCATION:Le Sainte-Catherine Hall\, 917 Rue Sainte-Catherine Est\, Montré
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Histoire de Peur ∞ Conte Musiacl ∞ Regina
+SUMMARY:Ecstatic Dance ∞ Little Bang 
+DTSTART:20261107T000000Z
+DTEND:20261107T033000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Histoire de Peur ∞ Conte Musical ∞ Regina
 DTSTART:20261108T230000Z
 DTEND:20261109T010000Z
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -316,9 +324,25 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Thomas Von Party 
+DTSTART:20261114T000000Z
+DTEND:20261114T033000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ritual Trance Dance 
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Sky 
+DTSTART:20261121T000000Z
+DTEND:20261121T031500Z
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
 SOURCE:Plein Soleil
