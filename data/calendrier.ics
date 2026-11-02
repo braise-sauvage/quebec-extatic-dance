@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//quebec.extatic.dance//Calendrier fusionné//FR
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade 
-DTSTART:20260619T230000Z
-DTEND:20260620T023000Z
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Depalma 
-DTSTART:20260626T230000Z
-DTEND:20260627T021500Z
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Syzygy
 DTSTART:20260703T230000Z
 DTEND:20260704T000000Z
@@ -345,6 +329,22 @@ DTSTART:20261121T000000Z
 DTEND:20261121T031500Z
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ DJ Abeille
+DTSTART:20261128T000000Z
+DTEND:20261128T031500Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danser les Archétypes ∞ David Pressault
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT

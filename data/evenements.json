@@ -1,23 +1,5 @@
 [
   {
-    "titre": "Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade ",
-    "debut": "2026-06-19T23:00:00+00:00",
-    "fin": "2026-06-20T02:30:00+00:00",
-    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
-    "description": "",
-    "source": "Plein Soleil",
-    "lien": null
-  },
-  {
-    "titre": "Ecstatic Dance ∞ Depalma ",
-    "debut": "2026-06-26T23:00:00+00:00",
-    "fin": "2026-06-27T02:15:00+00:00",
-    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
-    "description": "",
-    "source": "Plein Soleil",
-    "lien": null
-  },
-  {
     "titre": "Ecstatic Dance ∞ Syzygy",
     "debut": "2026-07-03T23:00:00+00:00",
     "fin": "2026-07-04T00:00:00+00:00",
@@ -373,6 +355,24 @@
     "debut": "2026-11-21T00:00:00+00:00",
     "fin": "2026-11-21T03:15:00+00:00",
     "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
+    "description": "",
+    "source": "Plein Soleil",
+    "lien": null
+  },
+  {
+    "titre": "Ecstatic Dance ∞ DJ Abeille",
+    "debut": "2026-11-28T00:00:00+00:00",
+    "fin": "2026-11-28T03:15:00+00:00",
+    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montreal H2L 3J3, Canada",
+    "description": "",
+    "source": "Plein Soleil",
+    "lien": null
+  },
+  {
+    "titre": "Danser les Archétypes ∞ David Pressault",
+    "debut": "2026-11-29T19:00:00+00:00",
+    "fin": "2026-11-29T22:00:00+00:00",
+    "lieu": "Plein Soleil, Exact address sent in the booking confirmation email, Montréal, Québec, H2L 3J3, Canada",
     "description": "",
     "source": "Plein Soleil",
     "lien": null

@@ -13,6 +13,17 @@ LOCATION:9860 Boulevard Sainte-Anne\, Sainte-Anne-de-Beaupré\, QC\, G0A 3
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Danser les Archétypes ∞ David Pressault
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+DTSTAMP:20261102T021922Z
+UID:6ae7e3853b49714c4f5cf765@squarespace.com
+GEO:45.553734;-73.533643
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AWAKEN MONTREAL 
 DTSTART:20260926T180000Z
 DTEND:20260927T034500Z
@@ -89,28 +100,6 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade 
-DTSTART:20260619T230000Z
-DTEND:20260620T023000Z
-DTSTAMP:20260824T210025Z
-UID:6a0f1a738256373350890e8c@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Depalma 
-DTSTART:20260626T230000Z
-DTEND:20260627T021500Z
-DTSTAMP:20260621T003134Z
-UID:6a1e5a1ef380aa61081e3d45@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Syzygy
 DTSTART:20260703T230000Z
 DTEND:20260704T000000Z
@@ -127,17 +116,6 @@ DTSTART:20260715T230000Z
 DTEND:20260716T021500Z
 DTSTAMP:20260713T164937Z
 UID:6a3c13e4e53f265928045385@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Sky 
-DTSTART:20261121T000000Z
-DTEND:20261121T031500Z
-DTSTAMP:20261030T205858Z
-UID:6ae5043e304565201f865ed6@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -171,6 +149,28 @@ DTSTART:20260918T230000Z
 DTEND:20260919T021500Z
 DTSTAMP:20260824T212906Z
 UID:6a8cb0e92844e14a28d620bd@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Sky 
+DTSTART:20261121T000000Z
+DTEND:20261121T031500Z
+DTSTAMP:20261101T235008Z
+UID:6ae5043e304565201f865ed6@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ DJ Abeille
+DTSTART:20261128T000000Z
+DTEND:20261128T031500Z
+DTSTAMP:20261102T000313Z
+UID:6ae7d03060501b3a681c07c4@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Little Bang 
 DTSTART:20261107T000000Z
 DTEND:20261107T033000Z
-DTSTAMP:20261030T210125Z
+DTSTAMP:20261101T233212Z
 UID:6ae503380e22af6b4b26ea9c@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Thomas Von Party 
 DTSTART:20261114T000000Z
 DTEND:20261114T033000Z
-DTSTAMP:20261030T210208Z
+DTSTAMP:20261101T234250Z
 UID:6ae503c0ec17c460fcf03e29@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Histoire de Peur ∞ Conte Musical ∞ Regina
 DTSTART:20261108T230000Z
 DTEND:20261109T010000Z
-DTSTAMP:20261030T211756Z
+DTSTAMP:20261102T011237Z
 UID:6ae0b4676785bf127abbb463@squarespace.com
 GEO:45.553734;-73.533643
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
