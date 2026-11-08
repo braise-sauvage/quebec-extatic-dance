@@ -363,17 +363,6 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conte de Peurs ∞ Conte Musical ∞ Regina
-DTSTART:20261108T230000Z
-DTEND:20261109T010000Z
-DTSTAMP:20261103T172449Z
-UID:6ae0b4676785bf127abbb463@squarespace.com
-GEO:45.553734;-73.533643
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montréal\, Québec\, H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Halloween Requiem V ∞ Aura Jade
 DTSTART:20261031T233000Z
 DTEND:20261101T110000Z
