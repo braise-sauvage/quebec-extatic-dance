@@ -300,6 +300,14 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sauna Rave with Aura Jade &amp\; Gotta Lago at Joy Wellness
+DTSTART:20261115T010000Z
+DTEND:20261115T033000Z
+LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
+ Québec\, H3G\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ritual Trance Dance 
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
