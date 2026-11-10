@@ -340,9 +340,41 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Matty Ryce 
+DTSTART:20261205T000000Z
+DTEND:20261205T031500Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KALI MOON ∞ Sagittarius 
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Mia Lafontaine
+DTSTART:20261212T000000Z
+DTEND:20261212T031500Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade 
+DTSTART:20261219T000000Z
+DTEND:20261219T031500Z
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Special ∞ Dance &amp\; Potluck ∞ papaCheetah 
+DTSTART:20261224T230000Z
+DTEND:20261225T030000Z
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
 SOURCE:Plein Soleil
