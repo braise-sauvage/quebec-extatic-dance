@@ -299,16 +299,6 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Place des montrealaises (free) 
-DTSTART:20260716T223000Z
-DTEND:20260717T003000Z
-DTSTAMP:20260715T210650Z
-UID:6a57f61e2118f715f55c2c48@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Place des Montréalaises\, Montréal\, QC\, H2Y 3Z8\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feel Rite ∞ Free outdoor Dance! 
 DTSTART:20260920T173000Z
 DTEND:20260920T213000Z
@@ -423,17 +413,6 @@ DTSTART:20261018T000000Z
 DTEND:20261018T023000Z
 DTSTAMP:20261006T142125Z
 UID:6ac502f3d0454a49335991a2@squarespace.com
-GEO:45.499137;-73.578148
-LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
- Québec\, H3G\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sauna Rave ∞ Mixwell &amp\; Gotta Lago at Joy Wellness
-DTSTART:20260719T000000Z
-DTEND:20260719T023000Z
-DTSTAMP:20260728T192753Z
-UID:6a3c17ba34474b301a0ff274@squarespace.com
 GEO:45.499137;-73.578148
 LOCATION:Joy Wellness Social Club\, 2200 Rue de la Montagne\, Montréal\, 
  Québec\, H3G\, Canada
