@@ -122,17 +122,6 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Sky
-DTSTART:20260722T230000Z
-DTEND:20260723T021500Z
-DTSTAMP:20261030T205526Z
-UID:6a3c3eb934039b2e79dfa4c8@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Bodaishin 
 DTSTART:20260819T230000Z
 DTEND:20260820T021500Z
