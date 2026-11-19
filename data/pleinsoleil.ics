@@ -34,6 +34,17 @@ LOCATION:Théatre Paradoxe
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Breathe. ∞ Somatic Breathwork CEREMONY ∞ Matty Ryce 
+DTSTART:20261206T200000Z
+DTEND:20261206T220000Z
+DTSTAMP:20261119T155234Z
+UID:6afe123cf6607c2038edec84@squarespace.com
+GEO:45.553734;-73.533643
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Breathe. ∞ Somatic Breathwork CEREMONY ∞ Matty Ryce
 DTSTART:20261024T180000Z
 DTEND:20261024T200000Z
@@ -321,6 +332,17 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Melt. ∞ A Kaleidoscope of Sound &amp\; Spirit ∞ Matty Ryce 
+DTSTART:20261207T000000Z
+DTEND:20261207T020000Z
+DTSTAMP:20261119T154933Z
+UID:6afe11f84193ac218e54b49e@squarespace.com
+GEO:45.553734;-73.533643
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montréal\, Québec\, H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Melt. ∞ A Kaleidoscope of Sound &amp\; Spirit ∞ Matty Ryce
 DTSTART:20261025T230000Z
 DTEND:20261026T010000Z
@@ -378,8 +400,19 @@ BEGIN:VEVENT
 SUMMARY:Ritual Trance Dance 
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
-DTSTAMP:20261030T210352Z
+DTSTAMP:20261119T155251Z
 UID:6ae0cae7bed7c15b44ceb5fd@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ritual Trance Dance
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+DTSTAMP:20261119T155650Z
+UID:6aff1b5302e9634adb27581b@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
