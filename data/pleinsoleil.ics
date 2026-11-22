@@ -100,28 +100,6 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Mia Lafontaine
-DTSTART:20261212T000000Z
-DTEND:20261212T031500Z
-DTSTAMP:20261109T225233Z
-UID:6af249d6cdeb6d48b13c06ba@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Matty Ryce 
-DTSTART:20261205T000000Z
-DTEND:20261205T031500Z
-DTSTAMP:20261109T203329Z
-UID:6af22dc024e1f9331a144624@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecstatic Dance ∞ Matty Ryce
 DTSTART:20261023T230000Z
 DTEND:20261024T021500Z
@@ -133,22 +111,33 @@ LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Bodaishin 
-DTSTART:20260819T230000Z
-DTEND:20260820T021500Z
-DTSTAMP:20260730T111331Z
-UID:6a66457534825c75ea2abadb@squarespace.com
+SUMMARY:Ecstatic Dance ∞ Mia Lafontaine
+DTSTART:20261212T000000Z
+DTEND:20261212T031500Z
+DTSTAMP:20261122T034110Z
+UID:6af249d6cdeb6d48b13c06ba@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
 SOURCE:Plein Soleil
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade 
-DTSTART:20261219T000000Z
-DTEND:20261219T031500Z
-DTSTAMP:20261109T203505Z
-UID:6af22e2724f1de522091a0f2@squarespace.com
+SUMMARY:Ecstatic Dance ∞ Matty Ryce 
+DTSTART:20261205T000000Z
+DTEND:20261205T031500Z
+DTSTAMP:20261122T031800Z
+UID:6af22dc024e1f9331a144624@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Bodaishin 
+DTSTART:20260819T230000Z
+DTEND:20260820T021500Z
+DTSTAMP:20260730T111331Z
+UID:6a66457534825c75ea2abadb@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -171,6 +160,17 @@ DTSTART:20261121T000000Z
 DTEND:20261121T031500Z
 DTSTAMP:20261101T235008Z
 UID:6ae5043e304565201f865ed6@squarespace.com
+GEO:45.52302;-73.55622
+LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
+ il\, Montreal H2L 3J3\, Canada
+SOURCE:Plein Soleil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecstatic Dance ∞ Solstice Edition ∞ Aura Jade 
+DTSTART:20261219T000000Z
+DTEND:20261219T031500Z
+DTSTAMP:20261122T034743Z
+UID:6af22e2724f1de522091a0f2@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -237,17 +237,6 @@ DTSTART:20261107T000000Z
 DTEND:20261107T033000Z
 DTSTAMP:20261101T233212Z
 UID:6ae503380e22af6b4b26ea9c@squarespace.com
-GEO:45.52302;-73.55622
-LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
- il\, Montreal H2L 3J3\, Canada
-SOURCE:Plein Soleil
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ecstatic Dance ∞ Neerav
-DTSTART:20260729T230000Z
-DTEND:20260730T021500Z
-DTSTAMP:20260726T171119Z
-UID:6a3c0ebb5d7d62453f9448de@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
  il\, Montreal H2L 3J3\, Canada
@@ -324,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:KALI MOON ∞ Sagittarius 
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
-DTSTAMP:20261030T205026Z
+DTSTAMP:20261122T030303Z
 UID:6ae0bd78cbfd7404fc54df38@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
@@ -411,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Ritual Trance Dance
 DTSTART:20261216T000000Z
 DTEND:20261216T020000Z
-DTSTAMP:20261119T155650Z
+DTSTAMP:20261122T030457Z
 UID:6aff1b5302e9634adb27581b@squarespace.com
 GEO:45.52302;-73.55622
 LOCATION:Plein Soleil\, Exact address sent in the booking confirmation ema
